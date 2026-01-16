@@ -14,7 +14,7 @@ With a working game engine, clear visuals, and the mix of human and AI players, 
 
 ### The Setup
 
-![Splendor physical game setup showing cards and tokens](images/splendor_setup.png)
+![Splendor physical game setup showing cards and tokens](assets/splendor_setup.png)
 
 * **Token piles (gems):**
   Five colored gem tokens — diamond (white), sapphire (blue), emerald (green), ruby (red), and onyx (black) — plus gold tokens (wildcards, often called jokers).
@@ -206,30 +206,30 @@ This enables real-time gameplay without search trees.
 
 ### Game Opening Screen
 
-![Game opening screen showing card decks and UI](images/gameScreen.jpg)
+![Game opening screen showing card decks and UI](assets/gameScreen.jpg)
 
 ### Keyboard Controls
 
-![Keyboard controls reference](images/controls.jpg)
+![Keyboard controls reference](assets/controls.jpg)
 
 ### Reserved Deck 
 
-![Reserved cards and nobles display](images/reserve.jpg)
+![Reserved cards and nobles display](assets/reserve.jpg)
 
 ### Nobles Deck
 
-![nobles display](images/deck.jpg)
+![nobles display](assets/deck.jpg)
 ### Points and Actions Tracker
 
-![Score and action tracking panel](images/points.jpg)
+![Score and action tracking panel](assets/points.jpg)
 
 ### Token Bank and Status Bar
 
-![Token bank with status bar](images/coins.jpg)
+![Token bank with status bar](assets/coins.jpg)
 
 ### Game Over Screen
 
-![Game over screen showing final scores](images/gameover.jpg)
+![Game over screen showing final scores](assets/gameover.jpg)
 
 ---
 
