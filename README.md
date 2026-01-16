@@ -14,7 +14,7 @@ With a working game engine, clear visuals, and the mix of human and AI players, 
 
 ### The Setup
 
-![Splendor physical game setup showing cards and tokens](assets/splendor_setup.png)
+![Splendor physical game setup showing cards and tokens](assets/setup.jpg)
 
 * **Token piles (gems):**
   Five colored gem tokens — diamond (white), sapphire (blue), emerald (green), ruby (red), and onyx (black) — plus gold tokens (wildcards, often called jokers).
